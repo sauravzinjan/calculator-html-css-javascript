@@ -16,6 +16,11 @@ A responsive Calculator built using HTML, CSS, and JavaScript. It performs basic
 - Division
 - Responsive Design
 
+## Preview
+
+![Calculator Screenshot](calculator.jpeg)
+
+
 ## Author
 
 Saurav Zinjan
